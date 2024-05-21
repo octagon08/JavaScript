@@ -1,0 +1,6 @@
+JavaScript or JS is basically a programming language for web browsers.
+
+//hello world
+
+console.log("Hello World");
+
