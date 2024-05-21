@@ -1,0 +1,23 @@
+// three ways to declare variables in Js
+/* var,
+   let ,
+   const */
+
+//var is basically a legecy declaration for js variables. var used to redeclare the variables which is bad for long LOC.
+var myvariable = 10;
+var myvariable = 20;
+myvariable;
+//output  will be 20 
+
+//const is commonly used and good to use in LOC as it makes variables value constant.
+const myVariable = 10;
+const myvariable 20;
+//showing errors
+
+//let is used to re-assign values i.e ++ --
+let counter = 0;
+counter = counter + 1;
+//1
+counter++
+//2
+    
